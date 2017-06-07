@@ -41,7 +41,7 @@ class Config
 	}
 	public function letter_header(){
 		return array(
-			'subject' => 'Verify your account information', 
+			'subject' => 'YOUR SUBJECT', 
 		);
 	}
 }
